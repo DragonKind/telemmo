@@ -40,6 +40,7 @@
     "gettext-loader": "derekstavis/gettext-loader",
     "jest": "18.1.0",
     "json-loader": "0.5.4",
+    "newrelic": "^1.38.2",
     "webpack": "1.14.0"
   }
 }
